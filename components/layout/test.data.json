@@ -1,0 +1,322 @@
+{
+    "footer1":[
+        {
+            "title": "About LeasePlan",
+            "list":[
+                {
+                    "item":"About LeasePlan",
+                    "href":"/"
+                },{
+                    "item":"What's next?",
+                    "href":"/"
+                },
+                {
+                    "item":"Request to modify personla data",
+                    "href":"/"
+                },
+                {
+                    "item":"Social responsibility",
+                    "href":"/"
+                },
+                {
+                    "item":"Partneers",
+                    "href":"/"
+                },
+                {
+                    "item":"News",
+                    "href":"/"
+                },
+                {
+                    "item":"LeasePlan Corporate",
+                    "href":"/"
+                }
+               
+            ]
+        }
+    ],
+    "footer2":[
+        {
+            "title":"Corporate car lease",
+            "list":[
+                {
+                    "item":"ttt2",
+                    "href":"/"
+                },
+                {
+                    "item":"ttt3",
+                    "href":"/"
+                },
+                {
+                    "item":"ttt4",
+                    "href":"/"
+                },
+                {
+                    "item":"ttt5",
+                    "href":"/"
+                },
+                {
+                    "item":"ttt6",
+                    "href":"/"
+                },
+                {
+                    "item":"ttt7",
+                    "href":"/"
+                }
+
+
+            ]
+        }
+    ],
+
+    "footer3":[
+        {
+            "title":"Corporate site",
+            "list":[
+                {
+                    "item":"About us",
+                    "href":"/"
+                },
+                {
+                    "item":"Products & Services",
+                    "href":"/"
+                },
+                {
+                    "item":"Investors",
+                    "href":"/"
+                },
+                {
+                    "item":"Sustainability",
+                    "href":"/"
+                },
+                {
+                    "item":"Annual Report",
+                    "href":"/"
+                },
+                {
+                    "item":"Contacts",
+                    "href":"/"
+                }
+            ]
+        }
+    ],
+     
+    "footer4":[
+        {
+            "title":"Leaseplan Emirates LLC",
+            "list":[
+                {
+                  "item":"Street # 10",
+                  "href":"/"
+                },
+                {
+                    "item":" Musaffah,",
+                    "href":"/"
+                  },
+                  {
+                    "item":"Musaffah Industrial",
+                    "href":"/"
+                  },
+                  {
+                    "item":" Abu Dhabi - United Arab Emirates",
+                    "href":"/"
+                  },
+                  {
+                    "item":"+971 2 404 6444",
+                    "href":"/"
+                  }
+
+            ]
+        }
+    ],
+
+    "footer5":[
+        {
+            "title":"My company cars",
+            "list":[
+                {
+                  "item":"Maintance and repair",
+                  "href":"/"
+                },
+                {
+                    "item":"Accidents and damanges",
+                    "href":"/"
+                  },
+                  {
+                    "item":"FAQ",
+                    "href":"/"
+                  }
+                 
+
+            ]
+        }
+    ],
+
+    "homeList":[
+       {   "svgimg":"/icons/notice.svg",
+           "title":"Lorem ipsum lorem ipsum lorem ipsum ",
+           "list":[
+            {
+                "item":"Lorem ipsum lorem ipsum lorem ipsum",
+                "href":"/"
+              },
+              {
+                  "item":"Lorem ipsum lorem ipsum lorem ipsum",
+                  "href":"/"
+                }
+           ]
+
+       }
+    ],
+
+    "homeList1":[
+        {    
+            "svgimg":"/icons/note.svg",
+            "title":"Lorem ipsum lorem ipsum lorem ipsum ",
+            "list":[
+             {
+                 "item":"Lorem ipsum lorem ipsum lorem ipsum",
+                 "href":"/"
+               },
+               {
+                   "item":"Lorem ipsum lorem ipsum lorem ipsum",
+                   "href":"/"
+                 }
+            ]
+ 
+        }
+     ],
+
+     "homeList2":[
+        {   
+            "svgimg":"/icons/music.svg",
+            "title":"Lorem ipsum lorem ipsum lorem ipsum ",
+            "list":[
+             {
+                 "item":"Lorem ipsum lorem ipsum lorem ipsum",
+                 "href":"/"
+               },
+               {
+                   "item":"Lorem ipsum lorem ipsum lorem ipsum",
+                   "href":"/"
+                 }
+            ]
+ 
+        }
+     ],
+
+     "ServiceData" : [
+        {
+          "icon" : "/icons/Greencorrect.svg",
+          "maintext": "Dedicated account manager"
+         
+        },
+        {
+          "icon" : "/icons/Greencorrect.svg",
+          "maintext": "Breakdown recovery"
+         
+        },
+        {
+          "icon" : "/icons/Greencorrect.svg",
+          "maintext": "Road fund license"
+         
+        },
+        {
+          "icon" : "/icons/Greencorrect.svg",
+          "maintext": "Access to DeiverLine 24/7, 365 days"
+         
+        }
+     ],
+
+     "ServiceDatanext" : [
+        {
+          "icon" : "/icons/Greencorrect.svg",
+          "maintext": "Dedicated account manager"
+         
+        },
+        {
+          "icon" : "/icons/Greencorrect.svg",
+          "maintext": "Breakdown recovery"
+         
+        },
+        {
+          "icon" : "/icons/Greencorrect.svg",
+          "maintext": "Road fund license"
+         
+        },
+        {
+          "icon" : "/icons/Greencorrect.svg",
+          "maintext": "Access to DeiverLine 24/7, 365 days"
+         
+        }
+     ],
+
+     "Steps":[
+         {
+             "number":"1",
+             "title":"Enquire",
+             "details":"Fill out enquiry form our website"
+         },
+         {
+            "number":"2",
+            "title":"Enquire",
+            "details":"Fill out enquiry form our website"
+        }, 
+        {
+            "number":"3",
+            "title":"Enquire",
+            "details":"Fill out enquiry form our website"
+        },
+        {
+            "number":"4",
+            "title":"Complete your contract",
+            "details":"Plase review everythings, sign itand send back to us"
+        },
+        {
+            "number":"5",
+            "title":"Ordering",
+            "details":"We will then order your vehicle"
+        },
+        {
+            "number":"6",
+            "title":"Delivery",
+            "details":"Your brand new vehicle will be delivered to you"
+        }
+     ],
+
+     "Benefits":[
+        {
+            "icon" : "/icons/Greencorrect.svg",
+            "maintext": "A fixed monthly rental can include maintenance with tyres, enabling you to budget and plan your finances"
+           
+          },
+          {
+            "icon" : "/icons/Greencorrect.svg",
+            "maintext": "Wide range of manufacturers and models for you to choose from"
+           
+          },
+          {
+            "icon" : "/icons/Greencorrect.svg",
+            "maintext": "Select the length of contract and annual mileage to suit your needs"
+           
+          },
+          {
+            "icon" : "/icons/Greencorrect.svg",
+            "maintext": "Flexible upfront payment options"
+           
+          },
+          {
+            "icon" : "/icons/Greencorrect.svg",
+            "maintext": "Access to a brand new vehicles every 2 to 5 years ensuring you have the latest tech"
+           
+          },
+          {
+            "icon" : "/icons/Greencorrect.svg",
+            "maintext": "Expertise and guidance provided by our vehicle and leasing experts"
+           
+          }
+     ]
+
+
+  
+
+}
