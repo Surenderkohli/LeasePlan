@@ -12,30 +12,30 @@ function homeslider({bannerList}) {
     {
       status:'active',
       imageUrl:`\\images\\slide2.jpg`,
-      title:'new car',
-      description:'Choose the vehicle you want'
+      title:'Drive Your Dream Car',
+      description:'Easy Rentals, Flexible Leases!'
       
 
     },
     {
       status:'active',
       imageUrl:`\\images\\slide4.png`,
-      title:'new car',
-      description:'Choose the vehicle you want'
+      title:'Your Ride, Your Way ',
+      description:'Rent or Lease with Ease!'
       
 
     },
     {
       status:'active',
       imageUrl:`\\images\\slide3.png`,
-      title:'new car',
-      description:'Choose the vehicle you want'
+      title:'Quality Cars, Great Rates',
+      description:'Rent or Lease Today!'
       },
     {
       status:'active',
       imageUrl:`\\images\\slide_03.jpg`,
-      title:'new car',
-      description:'Choose the vehicle you want'
+      title:'Get on the Road Fast',
+      description:'Rent or Lease with Us!'
       
 
     }
