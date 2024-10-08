@@ -8,6 +8,38 @@ import Link from 'next/link';
 function homeslider({bannerList}) {
   // console.log(bannerList,"homesliderdata");
   // let bannerListData=data.bannerList;
+  const dummydata=[
+    {
+      status:'active',
+      imageUrl:`\\images\\slide2.jpg`,
+      title:'new car',
+      description:'Choose the vehicle you want'
+      
+
+    },
+    {
+      status:'active',
+      imageUrl:`\\images\\slide4.png`,
+      title:'new car',
+      description:'Choose the vehicle you want'
+      
+
+    },
+    {
+      status:'active',
+      imageUrl:`\\images\\slide3.png`,
+      title:'new car',
+      description:'Choose the vehicle you want'
+      },
+    {
+      status:'active',
+      imageUrl:`\\images\\slide_03.jpg`,
+      title:'new car',
+      description:'Choose the vehicle you want'
+      
+
+    }
+  ]
   const settings = {
     dots: true,
     infinite: true,
@@ -43,8 +75,8 @@ function homeslider({bannerList}) {
       <div className='relative  '>
         <Slider {...settings}>
 
-          {bannerList?.map((item, i) => {
-            // console.log(item?.status,"status........")
+          {dummydata?.map((item, i) => {
+            console.log(item?.imageUrl,"status........")
             if(item?.status==="active"){
             return (<>
             <div key={i}>
@@ -52,11 +84,12 @@ function homeslider({bannerList}) {
                 className='w-full max-w-full h-auto object-center'
                 style={{ maxHeight: "80vh", objectFit: "cover" }}
                 src={item?.imageUrl}
+                // src='\images\slide4.png'
                 alt={`Image ${i}`}
               />
             </div>
 
-              <div className=" hidden container w-1/2  top-0 py-16 text-red  px-4 md:px-0  " style={{ top: "30vh", left: "17%", position: "absolute" }} >
+              <div className=" container w-1/2  top-0 py-16 text-red  px-4 md:px-0  " style={{ top: "30vh", left: "17%", position: "absolute" }} >
                 <div className="z-10 " >
                 <Data.WhiteData
                   heading={item?.title
